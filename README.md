@@ -91,7 +91,6 @@ The MERN stack is *isomorphic*, meaning it’s *all JavaScript*. Your entire pro
   - Classes vs. stateless functional components
   - Single Page Applications (SPAs)
   - Forms
-  - State management with Redux and `redux-starter-kit`
 
 - Other Skills
   - Problem-solving, debugging
@@ -111,5 +110,5 @@ The MERN stack is *isomorphic*, meaning it’s *all JavaScript*. Your entire pro
 - **Week 1:** Modern Javascript (ES6/ESNext), NodeJS
 - **Week 2:** Express, MongoDB
 - **Week 3-4:** CRUD Endpoints, User Systems, TDD
-- **Weeks 5-8:** React, Advanced AJAX, Core Redux, Capstone Proposal
+- **Weeks 5-8:** React, Advanced AJAX, Capstone Proposal
 - **Weeks 9-11:** Capstone Project
