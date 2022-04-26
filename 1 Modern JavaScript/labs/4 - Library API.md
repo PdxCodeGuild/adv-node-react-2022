@@ -17,8 +17,6 @@
 const fs = require('fs');
 const http = require('http');
 
-const books = // Get the list of books in your books directory
-
 const server = http.createServer((request, response) => {
   // Set the mime-type to plain/text, don't worry about mime types
   // this just tells the client what data is being sent

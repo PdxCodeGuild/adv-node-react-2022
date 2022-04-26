@@ -5,7 +5,6 @@ Advanced Node &amp; React Fullstack Bootcamp 28 March 2022 - 10 June 2022
 - Anthony Wallace, Instructor
   - anthony@pdxcodeguild.com
 - Lisa Brown, TA
-  - lisa@pdxcodeguild.com
 
 ## Intro
 The Node & React Full Stack Bootcamp is an intensive 11 week course that teaches dynamic web development using the **MERN** stack (**M**ongoDB/Mongoose, **E**xpress.js, **R**eact.js, and **N**ode.js). This course will guide you how to build reactive web applications using some of the industry’s most popular (and employable) technologies. 

@@ -14,7 +14,6 @@ const connectDatabase = (userConfig = {}) => {
     databaseUrl, 
     {
       useNewUrlParser: true,
-      useCreateIndex: true,
     }
   );
 
